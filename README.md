@@ -1,1 +1,1 @@
-‘This is an important note. Read it carefully.’
+‘A third line to README.’
